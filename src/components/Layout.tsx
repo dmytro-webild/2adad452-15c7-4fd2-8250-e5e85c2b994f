@@ -88,22 +88,6 @@ export default function Layout() {
             },
           ],
         },
-        {
-          items: [
-            {
-              label: "LinkedIn",
-              href: "#",
-            },
-            {
-              label: "Twitter",
-              href: "#",
-            },
-            {
-              label: "Instagram",
-              href: "#",
-            },
-          ],
-        },
       ]}
     />
       </SectionErrorBoundary>
